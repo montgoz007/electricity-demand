@@ -1,0 +1,5 @@
+# Ignore the entire data folder
+data/
+
+# Ignor e env vars
+.env
