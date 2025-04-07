@@ -1,5 +1,5 @@
 pandas
-pyarrow
-fsspec
-huggingface_hub
+requests
+lxml
 python-dotenv
+entsoe-py
