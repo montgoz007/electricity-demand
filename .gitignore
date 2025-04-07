@@ -1,5 +1,6 @@
-# Ignore the entire data folder
-data/
+# Ignore data 
+data/raw
+data/sql
 
 # Ignor e env vars
 .env
